@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DisplayComments Component snapshot update 1`] = `
+<div
+  className="ui container grid"
+>
+  <div
+    className="ui row"
+  >
+    <div
+      className="column eight wide block"
+    >
+      <div
+        className="ui devided list"
+      />
+    </div>
+  </div>
+</div>
+`;
